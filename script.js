@@ -1,5 +1,5 @@
-var c = document.getElementById("myCanvas");
-var ctx = c.getContext("2d");
+var c = document.getElementById("myCanvas"); //this is how to set up the canvas to work in js
+var ctx = c.getContext("2d");  //everithing seems to have attached in the end, to this ctx
 
 
 
