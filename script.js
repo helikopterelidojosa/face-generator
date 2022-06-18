@@ -46,8 +46,8 @@ dr(150,130,45,5);//eye left brow
 dr(250,130,45,5);//eye right brow
 dr(150,130,25,5);//eye left brow2
 dr(250,130,25,5);//eye right brow2
-dr(150,130,35,5);//eye left brow2
-dr(250,130,35,5);//eye right brow2
+dr(150,130,35,5);//eye left brow3
+dr(250,130,35,5);//eye right brow3
 rcxy();//color
 dr(150,250,110,10);//mouth i
 dr(150,250,100,10);//mouth ii
